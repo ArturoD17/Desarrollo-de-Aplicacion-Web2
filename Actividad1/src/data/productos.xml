@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario>
+
+    <producto>
+        <id>1</id>
+        <nombre>Arroz</nombre>
+        <categoria>Granos</categoria>
+        <precio>45.50</precio>
+        <cantidad>100</cantidad>
+    </producto>
+
+    <producto>
+        <id>2</id>
+        <nombre>Leche</nombre>
+        <categoria>Lácteos</categoria>
+        <precio>75.00</precio>
+        <cantidad>50</cantidad>
+    </producto>
+
+</inventario>
